@@ -1,0 +1,30 @@
+{
+	"name" : "TAMCHINGLOL/gitproject2",		//包名称：供应商/项目名称
+	"description" : "used to test composer load git project",	//对包的简短描述
+	"type" : "project",						//包安装类型 默认为library
+	"keywords" : [							//包关键字 用于更好SEO
+		"sunaw",
+		"framework",
+		"thinkphp"
+	],
+	"homepage" : "http://www.sunaw.net/",	//项目网站URL
+	"license" : "Apache-2.0",				//包许可协议
+	"authors": [
+        {
+            "name": "TAMCHINGLOL",
+            "email": "tamchinglol@gmail.com"
+        }
+    ],
+    "require": {							//软件包列表
+        "php": ">=5.4.0"
+        //"topthink/framework": "*"
+    },
+    "extra": {								//任意的，供 scripts 使用的额外数据
+        // "think-path": "thinkphp"
+    },
+    "minimum-stability": "dev",				//包稳定性过滤 默认stable(稳定)
+    "config": {								//针对项目的一些配置
+        "preferred-install": "dist"			//默认 auto，设置 Composer 安装方式
+    }
+
+}
