@@ -1,7 +1,7 @@
 {
 	"name" : "tamchinglol/gitproject2",		
 	"description" : "used to test composer load git project",	
-	"type" : "project",						
+	"type" : "library",						
 	"keywords" : [							
 		"sunaw",
 		"framework",
