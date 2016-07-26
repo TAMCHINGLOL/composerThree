@@ -17,10 +17,8 @@
     ],
     "require": {							
         "php": ">=5.4.0"
-        //"topthink/framework": "*"
     },
-    "extra": {								
-        // "think-path": "thinkphp"
+    "extra": {						
     },
     "minimum-stability": "dev",				
     "config": {								
