@@ -1,5 +1,5 @@
 {
-	"name" : "TAMCHINGLOL/gitproject2",		//包名称：供应商/项目名称
+	"name" : "TAMCHINGLOL/gitproject2",		
 	"description" : "used to test composer load git project",	//对包的简短描述
 	"type" : "project",						//包安装类型 默认为library
 	"keywords" : [							//包关键字 用于更好SEO
