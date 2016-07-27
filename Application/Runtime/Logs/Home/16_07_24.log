@@ -1,0 +1,4 @@
+[ 2016-07-24T21:27:21+08:00 ] ::1 /www/tpclass/thinkphp/Home/User/selectSql
+ERR: 1054:Unknown column '索隆' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `tp_user` WHERE ( name=索隆 ) 
+

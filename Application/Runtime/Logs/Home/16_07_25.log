@@ -1,0 +1,24 @@
+[ 2016-07-25T21:15:16+08:00 ] ::1 /www/tpclass/thinkphp/Home/User/changeHtml
+ERR: 非法操作:User
+
+[ 2016-07-25T21:16:47+08:00 ] ::1 /www/tpclass/thinkphp/Home/User
+ERR: 非法操作:User
+
+[ 2016-07-25T21:17:24+08:00 ] ::1 /www/tpclass/thinkphp/Home/User/
+ERR: 非法操作:User
+
+[ 2016-07-25T21:30:39+08:00 ] ::1 /www/tpclass/thinkphp/Home/User/readConfig
+ERR: 非法操作:User
+
+[ 2016-07-25T21:30:50+08:00 ] ::1 /www/tpclass/thinkphp/Home/User/readConfig
+ERR: 非法操作:User
+
+[ 2016-07-25T21:43:12+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Home/Index/www.baidu.com/cate_id/2.html
+ERR: 非法操作:www.baidu.com
+
+[ 2016-07-25T21:43:25+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Home/Index/www.baidu.com/cate_id/2.html
+ERR: 非法操作:www.baidu.com
+
+[ 2016-07-25T21:49:00+08:00 ] ::1 /www/tpclass/thinkphp/Home/Index/changeHtml
+ERR: Call to undefined function Home\Controller\sucess()
+

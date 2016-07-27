@@ -1,0 +1,117 @@
+[ 2016-07-20T01:45:50+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000907s ]
+ERR: 无法加载模块:Common
+
+[ 2016-07-20T01:45:58+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+ERR: 无法加载模块:Common
+
+[ 2016-07-20T01:46:00+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载模块:Common
+
+[ 2016-07-20T01:46:11+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 无法加载模块:Common
+
+[ 2016-07-20T01:46:11+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Common
+
+[ 2016-07-20T01:46:11+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+ERR: 无法加载模块:Common
+
+[ 2016-07-20T01:46:12+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+ERR: 无法加载模块:Common
+
+[ 2016-07-20T01:46:12+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Common
+
+[ 2016-07-20T01:46:12+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Common
+
+[ 2016-07-20T01:48:12+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+ERR: 无法加载模块:Common
+
+[ 2016-07-20T01:52:53+08:00 ] ::1 /www/tpclass/thinkphp/index.php/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:User
+
+[ 2016-07-20T01:53:01+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 无法加载模块:Common
+
+[ 2016-07-20T01:53:08+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Common
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-07-20T01:56:50+08:00 ] ::1 /www/tpclass/thinkphp/index.php/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+ERR: 无法加载模块:User
+
+[ 2016-07-20T02:11:44+08:00 ] ::1 /www/tpclass/thinkphp/%20User.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块: User
+
+[ 2016-07-20T13:13:19+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Home/User/display
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Home/User/display
+
+[ 2016-07-20T13:14:21+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Home_User_display
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载模块:Home_User_display
+
+[ 2016-07-20T13:18:20+08:00 ] ::1 /www/tpclass/thinkphp/index.php/Home/User/personal/name/TAM/age/22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载模块:Home/User/personal/name/TAM/age/22
+
+[ 2016-07-20T13:37:28+08:00 ] ::1 /www/tpclass/thinkphp/module=Home&controller=User&action=personal&name=TAM&age=22
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+ERR: 无法加载模块:Module=Home&controller=User&action=personal&name=TAM&age=22
+
