@@ -1,29 +1,26 @@
 {
-    "name": "tanchinglol/gitproject2",
-    "description": "the new thinkphp framework",
-    "type": "project",
-    "keywords": [
-        "framework",
-        "thinkphp",
-        "ORM"
-    ],
-    "homepage": "http://thinkphp.cn/",
+    "name": "tamchinglol/gitproject2",
+    "type": "composer-plugin",
+    "require": {
+        "composer-plugin-api": "^1.0"
+    },
+    "require-dev": {
+        "composer/composer": "1.0.*@dev"
+    },
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "yunwuxin",
+            "email": "448901948@qq.com"
         }
     ],
-    "require": {
-        "php": ">=5.4.0",
-        "topthink/framework": "*"
+    "autoload": {
+        "psr-4": {
+            "think\\composer\\": "src"
+        }
     },
     "extra": {
-        "think-path": "thinkphp"
+        "class": "think\\composer\\Plugin"
     },
-    "minimum-stability": "dev",
-    "config": {
-        "preferred-install": "dist"
-    }
+    "minimum-stability": "dev"
 }
