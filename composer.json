@@ -11,7 +11,7 @@
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "TAMCHINGLOL",
+            "name": "TAMCHINGLOL",  
             "email": "tamchinglol@gmail.com"
         }
     ],
@@ -19,11 +19,11 @@
         "php": ">=5.4.0",
         "tamchinglol/gitproject": "*"
     },
+    "extra": {
+        "think-path": "corephp"
+    },
     "minimum-stability": "dev",
     "config": {
         "preferred-install": "dist"
-    },
-    "extra": {
-        "think-path": "thinkphp"
     }
 }
